@@ -117,7 +117,7 @@ https://www.transifex.com/mempool/mempool/dashboard/
 * Hebrew @rapidlab309
 * Georgian @wyd_idk
 * Hungarian @btcdragonlord
-* Dutch @m__btc
+* Dutch @m__btc @BitcoinWiki_NL
 * Japanese @wiz @japananon
 * Norwegian @T82771355
 * Polish @maciejsoltysiak
